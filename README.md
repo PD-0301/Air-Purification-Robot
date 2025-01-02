@@ -7,8 +7,8 @@ The system is designed to address pollution challenges in industrial and domesti
 
 ---
 
-##Model
-![](model.png)
+## Model
+![Model](model.png)
 
 ---
 
@@ -27,7 +27,7 @@ The system is designed to address pollution challenges in industrial and domesti
 
 ---
 
-##System Overview
+## System Overview
 ![](systemoverview.png)
 
 ---
@@ -42,9 +42,9 @@ The system is designed to address pollution challenges in industrial and domesti
 
 ---
 
-##Block Diagram
+## Block Diagram
 
-![](blockdiagram.png)
+![Block Diagram](blockdiagram.png)
 
 ---
 
@@ -78,7 +78,7 @@ The system is designed to address pollution challenges in industrial and domesti
 
 ---
 
-##Blynk App GUI
+## Blynk App GUI
 
 ![](blynkapp.png)
 
